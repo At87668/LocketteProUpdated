@@ -2,7 +2,7 @@
 
 ### LocketteProUpdated - The much better Lockette plugin for Bukkit
 
-LocketteProUpdated is a fork of [LockettePro](https://github.com/NyaaCat/LockettePro), specialized built for 1.21+
+LocketteProUpdated is a fork of [LockettePro](https://github.com/NyaaCat/LockettePro), specialized built for 1.21
 
 For early Minecraft, you should use LockettePro
 
