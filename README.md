@@ -1,14 +1,12 @@
-# LockettePro [![Build Status](https://ci.nyaacat.com/job/LockettePro/job/main/badge/icon?style=flat-square)](https://ci.nyaacat.com/job/LockettePro/job/main/)
+# LocketteProUpdated
 
-<!-- For Alerts: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts -->
-> [!CAUTION]\
-> ***Versions for Minecraft 1.21 are not fully tested yet.***  
-> Please create an issue if you find anything wrong. Thank you.  
+### LocketteProUpdated - The much better Lockette plugin for Bukkit
 
-All versions can be found at [Nyaa CI server](https://ci.nyaacat.com/job/LockettePro/) 
-For the newest build on main branch, click [here](https://ci.nyaacat.com/job/LockettePro/job/main/lastSuccessfulBuild/)
+LocketteProUpdated is a fork of [LockettePro](https://github.com/NyaaCat/LockettePro), specialized built for 1.21+
 
-### LockettePro - A much better Lockette plugin for Bukkit
+For early Minecraft, you should use LockettePro
+
+---
 
 LockettePro is a block-protection plugin based on Lockette (https://github.com/Acru/Lockette), the code base is entirely re-written. It is 100% compatable with original Lockette, and the plugin behaviors are also 100% same.
 
@@ -22,12 +20,15 @@ LockettePro is a block-protection plugin based on Lockette (https://github.com/A
 6. Lock expircy feature, locks can expire after a certain amount of time.
 
 ### Links
+
+**LocketteProUpdated**
+
+Github release: https://github.com/At87668/LocketteProUpdated/releases/
+
+**LockettePro**
+
 Spigot release page: https://www.spigotmc.org/resources/lockettepro.20427/  
 Bukkit release page: http://dev.bukkit.org/bukkit-plugins/lockettepro/  
 MCBBS release page: http://www.mcbbs.net/thread-567962-1-1.html    
 MC 1.6~1.7 Port: https://github.com/connection-lost/LockettePro/releases/tag/v1.9.4
 
-### Version history
-- 2.9.15 : Minecraft 1.21, downloadable from [github actions](https://github.com/NyaaCat/LockettePro/actions/workflows/autobuild.yml)
-- 2.9.x-1.15.1: Minecraft 1.15.1, since build 10
-- 2.9.x-1.14.4: Minecraft 1.14.4, until build 9
